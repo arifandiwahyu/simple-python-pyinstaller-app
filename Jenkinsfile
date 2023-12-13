@@ -14,5 +14,6 @@ node {
     } finally {
                 junit 'test-reports/results.xml'
             }
+            //reference for recording test on scripted pipeline : https://www.jenkins.io/doc/pipeline/tour/tests-and-artifacts/ 
     }
 
